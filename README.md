@@ -13,35 +13,87 @@
 
 ---
 
-## 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,js,html,css,git,github,docker,jenkins,mysql,sqlite,linux,tensorflow,pytorch,vscode,r,scala,spark,kafka,aws,spring" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
+<!-- ///////// TECH STACK SECTION ///////// -->
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+        <br>R
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+        <br>PyTorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+        <br>SQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" width="80" alt="Jupyter" />
+        <br>Jupyter
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <br>HTML/CSS
       </td>
     </tr>
   </table>
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=00FFAA&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/your-username?color=00FFAA&style=flat" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/repo-count/your-username?color=00FFAA&style=flat" alt="Repository Count" />
+</div>
+
+---
+
+<!-- ///////// GITHUB STATS SECTION ///////// -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medabdellahihabib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=36BCF7&v=3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medabdellahihabib&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&border_color=36BCF7&hide=Jupyter%20Notebook,Procfile&v=3"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://streak-stats.demolab.com/?user=medabdellahihabib&theme=tokyonight&border_radius=10&border=36BCF7&v=3" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medabdellahihabib&theme=tokyo-night&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=false&border_radius=10&v=3" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=medabdellahihabib&color=00FFAA&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/medabdellahihabib?color=00FFAA&style=flat" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/repo-count/medabdellahihabib?color=00FFAA&style=flat" alt="Repository Count" />
 </div>
