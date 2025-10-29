@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Med+Abdellahi+Habib;💻+Data+Scientist+%26+Machine+Learning+Engineer;🚀+Passionate+about+AI%2C+Data+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Med+Abdellahi+Habib;💻+Data+Scientist+%26+ML+Engineer;🚀+Passionate+about+AI%2C+Data+%26+Automation" alt="Typing SVG" />
 </p>
 
 ---
@@ -79,7 +79,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medabdellahihabib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=36BCF7&v=3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medabdellahihabib&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&border_color=36BCF7&hide=Jupyter%20Notebook,Procfile&v=3"/>
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -95,5 +94,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=medabdellahihabib&color=00FFAA&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/medabdellahihabib?color=00FFAA&style=flat" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/repo-count/medabdellahihabib?color=00FFAA&style=flat" alt="Repository Count" />
+
 </div>
