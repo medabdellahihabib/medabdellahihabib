@@ -155,6 +155,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=medabdellahihabib&theme=tokyo-night&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=false&border_radius=10&v=3" />
 </div>
 
+<h2 align="center">💻 Top Languages</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medabdellahihabib&layout=compact&theme=tokyonight&border_radius=10&border_color=36BCF7" />
+</div>
+
+
 <br>
 
 <div align="center">
