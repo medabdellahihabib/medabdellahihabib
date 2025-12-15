@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 🎯 **Data Scientist | Machine Learning Engineer**  
-💡 Passionate about **AI**, **Machine Learning** and **Data Engineering**  
+💡 Passionate about **AI**, **Machine Learning**,**MLops** and **Data Engineering**  
 🌍 Based in **Mauritania** | Open for remote & global collaboration  
 
 📫 Reach me at: [habibmed109@gmail.com]
